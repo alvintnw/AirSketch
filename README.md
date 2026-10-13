@@ -1,4 +1,4 @@
-# Air Canvas Studio
+# AirSketch
 
 Air Canvas Studio is a computer vision-based virtual whiteboard that lets you draw in the air using hand gestures. It uses a webcam, OpenCV, and MediaPipe hand tracking to turn index-finger movements into digital drawings in real time.
 
