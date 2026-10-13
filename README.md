@@ -105,7 +105,3 @@ Move your hand in front of the camera and use the gesture controls to draw. Expo
 ├── requirements.txt       # Python dependencies
 └── README.md              # Project documentation
 ```
-
-## License
-
-This project is licensed under the terms of the [MIT License](LICENSE).
